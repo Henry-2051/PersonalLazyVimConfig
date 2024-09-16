@@ -63,7 +63,6 @@ return {
         "vimdoc",
         "xml",
         "yaml",
-        "haskell",
       },
       incremental_selection = {
         enable = true,
